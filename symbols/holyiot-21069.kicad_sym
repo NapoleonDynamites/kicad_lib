@@ -23,7 +23,7 @@
 			)
 		)
 		(property "Footprint" "holyiot-21069:holyiot-21069"
-			(at 0 0 0)
+			(at 8.128 -4.572 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -70,7 +70,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 76.2 180)
+				(at -6.35 76.2 0)
 				(length 6.35)
 				(name "P0.02"
 					(effects
@@ -88,7 +88,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 73.66 180)
+				(at -6.35 73.66 0)
 				(length 6.35)
 				(name "P0.03"
 					(effects
@@ -106,7 +106,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 71.12 180)
+				(at -6.35 71.12 0)
 				(length 6.35)
 				(name "P0.04"
 					(effects
@@ -124,7 +124,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 68.58 180)
+				(at -6.35 68.58 0)
 				(length 6.35)
 				(name "P0.05"
 					(effects
@@ -142,7 +142,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 66.04 180)
+				(at -6.35 66.04 0)
 				(length 6.35)
 				(name "P0.06"
 					(effects
@@ -160,7 +160,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 63.5 180)
+				(at -6.35 63.5 0)
 				(length 6.35)
 				(name "P0.07"
 					(effects
@@ -178,7 +178,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 60.96 180)
+				(at -6.35 60.96 0)
 				(length 6.35)
 				(name "P0.08"
 					(effects
@@ -196,7 +196,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 58.42 180)
+				(at -6.35 58.42 0)
 				(length 6.35)
 				(name "P0.09"
 					(effects
@@ -214,7 +214,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 55.88 180)
+				(at -6.35 55.88 0)
 				(length 6.35)
 				(name "P0.10"
 					(effects
@@ -232,7 +232,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 53.34 180)
+				(at -6.35 53.34 0)
 				(length 6.35)
 				(name "P0.11"
 					(effects
@@ -250,7 +250,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 50.8 180)
+				(at -6.35 50.8 0)
 				(length 6.35)
 				(name "P0.12"
 					(effects
@@ -268,7 +268,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 48.26 180)
+				(at -6.35 48.26 0)
 				(length 6.35)
 				(name "P0.13"
 					(effects
@@ -286,7 +286,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 45.72 180)
+				(at -6.35 45.72 0)
 				(length 6.35)
 				(name "P0.14"
 					(effects
@@ -304,7 +304,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 43.18 180)
+				(at -6.35 43.18 0)
 				(length 6.35)
 				(name "P0.15"
 					(effects
@@ -322,7 +322,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 40.64 180)
+				(at -6.35 40.64 0)
 				(length 6.35)
 				(name "P0.16"
 					(effects
@@ -340,7 +340,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 38.1 180)
+				(at -6.35 38.1 0)
 				(length 6.35)
 				(name "P0.17"
 					(effects
@@ -358,7 +358,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 35.56 180)
+				(at -6.35 35.56 0)
 				(length 6.35)
 				(name "P0.18"
 					(effects
@@ -376,7 +376,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 33.02 180)
+				(at -6.35 33.02 0)
 				(length 6.35)
 				(name "P0.19"
 					(effects
@@ -394,7 +394,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 30.48 180)
+				(at -6.35 30.48 0)
 				(length 6.35)
 				(name "P0.20"
 					(effects
@@ -412,7 +412,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 27.94 180)
+				(at -6.35 27.94 0)
 				(length 6.35)
 				(name "P0.21"
 					(effects
@@ -430,7 +430,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 25.4 180)
+				(at -6.35 25.4 0)
 				(length 6.35)
 				(name "P0.22"
 					(effects
@@ -448,7 +448,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 22.86 180)
+				(at -6.35 22.86 0)
 				(length 6.35)
 				(name "P0.23"
 					(effects
@@ -466,7 +466,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 20.32 180)
+				(at -6.35 20.32 0)
 				(length 6.35)
 				(name "P0.24"
 					(effects
@@ -484,7 +484,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 17.78 180)
+				(at -6.35 17.78 0)
 				(length 6.35)
 				(name "P0.25"
 					(effects
@@ -502,7 +502,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 15.24 180)
+				(at -6.35 15.24 0)
 				(length 6.35)
 				(name "P0.26"
 					(effects
@@ -520,7 +520,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 12.7 180)
+				(at -6.35 12.7 0)
 				(length 6.35)
 				(name "P0.27"
 					(effects
@@ -538,7 +538,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 10.16 180)
+				(at -6.35 10.16 0)
 				(length 6.35)
 				(name "P0.28"
 					(effects
@@ -556,7 +556,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 7.62 180)
+				(at -6.35 7.62 0)
 				(length 6.35)
 				(name "P0.29"
 					(effects
@@ -574,7 +574,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 5.08 180)
+				(at -6.35 5.08 0)
 				(length 6.35)
 				(name "P0.30"
 					(effects
@@ -592,7 +592,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 2.54 180)
+				(at -6.35 2.54 0)
 				(length 6.35)
 				(name "P0.31"
 					(effects
@@ -623,7 +623,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 40.64 180)
+				(at -6.35 40.64 0)
 				(length 6.35)
 				(name "P1.00"
 					(effects
@@ -641,7 +641,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 38.1 180)
+				(at -6.35 38.1 0)
 				(length 6.35)
 				(name "P1.01"
 					(effects
@@ -659,7 +659,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 35.56 180)
+				(at -6.35 35.56 0)
 				(length 6.35)
 				(name "P1.02"
 					(effects
@@ -677,7 +677,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 33.02 180)
+				(at -6.35 33.02 0)
 				(length 6.35)
 				(name "P1.03"
 					(effects
@@ -695,7 +695,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 30.48 180)
+				(at -6.35 30.48 0)
 				(length 6.35)
 				(name "P1.04"
 					(effects
@@ -713,7 +713,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 27.94 180)
+				(at -6.35 27.94 0)
 				(length 6.35)
 				(name "P1.05"
 					(effects
@@ -731,7 +731,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 25.4 180)
+				(at -6.35 25.4 0)
 				(length 6.35)
 				(name "P1.06"
 					(effects
@@ -749,7 +749,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 22.86 180)
+				(at -6.35 22.86 0)
 				(length 6.35)
 				(name "P1.07"
 					(effects
@@ -767,7 +767,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 20.32 180)
+				(at -6.35 20.32 0)
 				(length 6.35)
 				(name "P1.08"
 					(effects
@@ -785,7 +785,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 17.78 180)
+				(at -6.35 17.78 0)
 				(length 6.35)
 				(name "P1.09"
 					(effects
@@ -803,7 +803,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 15.24 180)
+				(at -6.35 15.24 0)
 				(length 6.35)
 				(name "P1.10"
 					(effects
@@ -821,7 +821,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 12.7 180)
+				(at -6.35 12.7 0)
 				(length 6.35)
 				(name "P1.11"
 					(effects
@@ -839,7 +839,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 10.16 180)
+				(at -6.35 10.16 0)
 				(length 6.35)
 				(name "P1.12"
 					(effects
@@ -857,7 +857,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 7.62 180)
+				(at -6.35 7.62 0)
 				(length 6.35)
 				(name "P1.13"
 					(effects
@@ -875,7 +875,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 5.08 180)
+				(at -6.35 5.08 0)
 				(length 6.35)
 				(name "P1.14"
 					(effects
@@ -893,7 +893,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 2.54 180)
+				(at -6.35 2.54 0)
 				(length 6.35)
 				(name "P1.15"
 					(effects
@@ -924,7 +924,7 @@
 				)
 			)
 			(pin input line
-				(at 0 7.62 180)
+				(at -12.7 7.62 0)
 				(length 12.7)
 				(name "SWDCLK"
 					(effects
@@ -942,7 +942,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 5.08 180)
+				(at -12.7 5.08 0)
 				(length 12.7)
 				(name "SWDIO"
 					(effects
@@ -960,7 +960,7 @@
 				)
 			)
 			(pin input line
-				(at 0 2.54 180)
+				(at -12.7 2.54 0)
 				(length 12.7)
 				(name "RESET"
 					(effects
@@ -991,7 +991,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 5.08 180)
+				(at -6.35 5.08 0)
 				(length 6.35)
 				(name "D+"
 					(effects
@@ -1009,7 +1009,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 0 2.54 180)
+				(at -6.35 2.54 0)
 				(length 6.35)
 				(name "D-"
 					(effects
@@ -1040,7 +1040,7 @@
 				)
 			)
 			(pin power_in line
-				(at 0 12.7 180)
+				(at -6.35 12.7 0)
 				(length 6.35)
 				(name "GND"
 					(effects
@@ -1058,7 +1058,7 @@
 				)
 			)
 			(pin power_in line
-				(at 0 10.16 180)
+				(at -6.35 10.16 0)
 				(length 6.35)
 				(name "VBUS"
 					(effects
@@ -1076,7 +1076,7 @@
 				)
 			)
 			(pin power_in line
-				(at 0 7.62 180)
+				(at -6.35 7.62 0)
 				(length 6.35)
 				(name "VDDH"
 					(effects
@@ -1094,7 +1094,7 @@
 				)
 			)
 			(pin power_in line
-				(at 0 5.08 180)
+				(at -6.35 5.08 0)
 				(length 6.35)
 				(name "DCCH"
 					(effects
@@ -1112,7 +1112,7 @@
 				)
 			)
 			(pin power_in line
-				(at 0 2.54 180)
+				(at -6.35 2.54 0)
 				(length 6.35)
 				(name "VDD"
 					(effects
