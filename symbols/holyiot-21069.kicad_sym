@@ -14,8 +14,8 @@
 				)
 			)
 		)
-		(property "Value" ""
-			(at 0 0 0)
+		(property "Value" "holyiot-21069"
+			(at 8.636 -2.286 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -62,11 +62,11 @@
 				(start 0 78.74)
 				(end 12.7 0)
 				(stroke
-					(width 0)
+					(width 0.254)
 					(type default)
 				)
 				(fill
-					(type none)
+					(type background)
 				)
 			)
 			(pin bidirectional line
@@ -615,11 +615,11 @@
 				(start 0 43.18)
 				(end 12.7 0)
 				(stroke
-					(width 0)
+					(width 0.254)
 					(type default)
 				)
 				(fill
-					(type none)
+					(type background)
 				)
 			)
 			(pin bidirectional line
@@ -916,11 +916,11 @@
 				(start 0 10.16)
 				(end 12.7 0)
 				(stroke
-					(width 0)
+					(width 0.254)
 					(type default)
 				)
 				(fill
-					(type none)
+					(type background)
 				)
 			)
 			(pin input line
@@ -980,14 +980,14 @@
 		)
 		(symbol "holyiot-21069_4_1"
 			(rectangle
-				(start 0 0)
-				(end 12.7 7.62)
+				(start 0 7.62)
+				(end 12.7 0)
 				(stroke
-					(width 0)
+					(width 0.254)
 					(type default)
 				)
 				(fill
-					(type none)
+					(type background)
 				)
 			)
 			(pin bidirectional line
@@ -1029,36 +1029,18 @@
 		)
 		(symbol "holyiot-21069_5_1"
 			(rectangle
-				(start 0 0)
-				(end 12.7 15.24)
+				(start 0 15.24)
+				(end 12.7 0)
 				(stroke
-					(width 0)
+					(width 0.254)
 					(type default)
 				)
 				(fill
-					(type none)
+					(type background)
 				)
 			)
 			(pin power_in line
 				(at -6.35 12.7 0)
-				(length 6.35)
-				(name "GND"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "GND"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin power_in line
-				(at -6.35 10.16 0)
 				(length 6.35)
 				(name "VBUS"
 					(effects
@@ -1076,7 +1058,7 @@
 				)
 			)
 			(pin power_in line
-				(at -6.35 7.62 0)
+				(at -6.35 10.16 0)
 				(length 6.35)
 				(name "VDDH"
 					(effects
@@ -1094,7 +1076,7 @@
 				)
 			)
 			(pin power_in line
-				(at -6.35 5.08 0)
+				(at -6.35 7.62 0)
 				(length 6.35)
 				(name "DCCH"
 					(effects
@@ -1112,7 +1094,7 @@
 				)
 			)
 			(pin power_in line
-				(at -6.35 2.54 0)
+				(at -6.35 5.08 0)
 				(length 6.35)
 				(name "VDD"
 					(effects
@@ -1122,6 +1104,24 @@
 					)
 				)
 				(number "VDD"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin power_in line
+				(at -6.35 2.54 0)
+				(length 6.35)
+				(name "GND"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "GND"
 					(effects
 						(font
 							(size 1.27 1.27)

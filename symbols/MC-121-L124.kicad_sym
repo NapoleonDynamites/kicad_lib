@@ -14,8 +14,8 @@
 				)
 			)
 		)
-		(property "Value" ""
-			(at 0 0 0)
+		(property "Value" "MC-121-L124"
+			(at 1.016 -3.048 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -49,20 +49,18 @@
 				(hide yes)
 			)
 		)
-		(symbol "MC-121-L124_0_1"
+		(symbol "MC-121-L124_1_1"
 			(rectangle
 				(start 0 33.02)
-				(end 10.16 0)
+				(end 12.7 0)
 				(stroke
-					(width 0)
+					(width 0.254)
 					(type default)
 				)
 				(fill
-					(type none)
+					(type background)
 				)
 			)
-		)
-		(symbol "MC-121-L124_1_1"
 			(pin input line
 				(at -7.62 30.48 0)
 				(length 7.62)
