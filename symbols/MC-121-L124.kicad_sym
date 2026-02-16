@@ -51,7 +51,7 @@
 		)
 		(symbol "MC-121-L124_1_1"
 			(rectangle
-				(start 0 33.02)
+				(start 0 35.56)
 				(end 12.7 0)
 				(stroke
 					(width 0.254)
@@ -62,7 +62,7 @@
 				)
 			)
 			(pin input line
-				(at -7.62 30.48 0)
+				(at -7.62 33.02 0)
 				(length 7.62)
 				(name "CC2"
 					(effects
@@ -80,7 +80,7 @@
 				)
 			)
 			(pin input line
-				(at -7.62 27.94 0)
+				(at -7.62 30.48 0)
 				(length 7.62)
 				(name "CC1"
 					(effects
@@ -98,7 +98,7 @@
 				)
 			)
 			(pin input line
-				(at -7.62 25.4 0)
+				(at -7.62 27.94 0)
 				(length 7.62)
 				(name "DP1"
 					(effects
@@ -116,7 +116,7 @@
 				)
 			)
 			(pin input line
-				(at -7.62 22.86 0)
+				(at -7.62 25.4 0)
 				(length 7.62)
 				(name "DP2"
 					(effects
@@ -134,7 +134,7 @@
 				)
 			)
 			(pin input line
-				(at -7.62 20.32 0)
+				(at -7.62 22.86 0)
 				(length 7.62)
 				(name "DN1"
 					(effects
@@ -152,7 +152,7 @@
 				)
 			)
 			(pin input line
-				(at -7.62 17.78 0)
+				(at -7.62 20.32 0)
 				(length 7.62)
 				(name "DN2"
 					(effects
@@ -170,7 +170,7 @@
 				)
 			)
 			(pin input line
-				(at -7.62 15.24 0)
+				(at -7.62 17.78 0)
 				(length 7.62)
 				(name "SBU1"
 					(effects
@@ -188,7 +188,7 @@
 				)
 			)
 			(pin input line
-				(at -7.62 12.7 0)
+				(at -7.62 15.24 0)
 				(length 7.62)
 				(name "SBU2"
 					(effects
@@ -206,7 +206,7 @@
 				)
 			)
 			(pin power_out line
-				(at -7.62 10.16 0)
+				(at -7.62 12.7 0)
 				(length 7.62)
 				(name "VBUS1"
 					(effects
@@ -224,7 +224,7 @@
 				)
 			)
 			(pin power_out line
-				(at -7.62 7.62 0)
+				(at -7.62 10.16 0)
 				(length 7.62)
 				(name "VBUS2"
 					(effects
@@ -234,6 +234,24 @@
 					)
 				)
 				(number "B4A9"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin power_out line
+				(at -7.62 7.62 0)
+				(length 7.62)
+				(name "SHIELD"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "SHIELD"
 					(effects
 						(font
 							(size 1.27 1.27)
