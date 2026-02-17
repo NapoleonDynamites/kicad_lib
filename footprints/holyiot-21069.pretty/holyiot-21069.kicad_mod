@@ -553,4 +553,15 @@
 		(uuid "48588171-50eb-409c-a2d3-44fa4a698905")
 	)
 	(embedded_fonts no)
+	(model "${KIPRJMOD}/kicad_lib/models/HOLYIOT-21069.step"
+		(offset
+			(xyz 0 0 0.8)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -0 -0 -0)
+		)
+	)
 )

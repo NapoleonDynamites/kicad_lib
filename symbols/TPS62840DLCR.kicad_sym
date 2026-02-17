@@ -46,12 +46,13 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
-			(at 0 0 0)
+		(property "Description" "60-nA IQ, 1.8-V to 6.5-VIN, high-efficiency 750-mA step-down converter 8-VSON-HR -40 to 125"
+			(at 1.27 -27.432 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify bottom)
 				(hide yes)
 			)
 		)
@@ -67,16 +68,6 @@
 		)
 		(property "MOUSER-PURCHASE-URL" "https://snapeda.com/shop?store=Mouser&id=4216699"
 			(at -2.286 -27.432 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "DESCRIPTION" "60-nA IQ, 1.8-V to 6.5-VIN, high-efficiency 750-mA step-down converter 8-VSON-HR -40 to 125"
-			(at 1.27 -27.432 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -225,8 +216,26 @@
 					)
 				)
 			)
-			(pin power_in line
+			(pin input line
 				(at -5.08 17.78 0)
+				(length 5.08)
+				(name "EN"
+					(effects
+						(font
+							(size 1.016 1.016)
+						)
+					)
+				)
+				(number "4"
+					(effects
+						(font
+							(size 1.016 1.016)
+						)
+					)
+				)
+			)
+			(pin power_in line
+				(at -5.08 15.24 0)
 				(length 5.08)
 				(name "SW"
 					(effects
@@ -244,7 +253,7 @@
 				)
 			)
 			(pin input line
-				(at -5.08 15.24 0)
+				(at -5.08 12.7 0)
 				(length 5.08)
 				(name "VOS"
 					(effects
@@ -254,24 +263,6 @@
 					)
 				)
 				(number "8"
-					(effects
-						(font
-							(size 1.016 1.016)
-						)
-					)
-				)
-			)
-			(pin input line
-				(at -5.08 12.7 0)
-				(length 5.08)
-				(name "EN"
-					(effects
-						(font
-							(size 1.016 1.016)
-						)
-					)
-				)
-				(number "4"
 					(effects
 						(font
 							(size 1.016 1.016)
@@ -300,14 +291,14 @@
 			(pin input line
 				(at -5.08 7.62 0)
 				(length 5.08)
-				(name "STOP"
+				(name "VSET"
 					(effects
 						(font
 							(size 1.016 1.016)
 						)
 					)
 				)
-				(number "6"
+				(number "5"
 					(effects
 						(font
 							(size 1.016 1.016)
@@ -318,14 +309,14 @@
 			(pin input line
 				(at -5.08 5.08 0)
 				(length 5.08)
-				(name "VSET"
+				(name "STOP"
 					(effects
 						(font
 							(size 1.016 1.016)
 						)
 					)
 				)
-				(number "5"
+				(number "6"
 					(effects
 						(font
 							(size 1.016 1.016)
