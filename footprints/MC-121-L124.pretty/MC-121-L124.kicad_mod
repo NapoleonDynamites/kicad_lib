@@ -205,4 +205,15 @@
 		(uuid "e6bd6829-3198-44fa-8b14-1ef0edd49cf7")
 	)
 	(embedded_fonts no)
+	(model "${KIPRJMOD}/kicad_lib/models/MC-121-L124.step"
+		(offset
+			(xyz 0 2.4 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -0 -0 -0)
+		)
+	)
 )
